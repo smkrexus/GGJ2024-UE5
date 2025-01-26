@@ -1,7 +1,7 @@
 # Hello!
 Gameplay trailer: https://youtu.be/6fMiLrQZ9JY
 
-GGJ Austin 2024: https://globalgamejam.org/games/2024/uncertified-3
+Game jams we've participated: [GGJ Austin 2024](https://globalgamejam.org/games/2024/uncertified-3) | [GGJ Austin 2025](https://globalgamejam.org/games/2025/uncertified-2)
 
 # Our Journey thus far
 We had lots of fun and laughter creating this game. Great job everyone, we actually placed somewhere on the different categories!
